@@ -1,5 +1,5 @@
 # Whack-A-Mole
-Arduino based 'Whack-a-Mole" game to keep our cat entertained. \
+Arduino based 'Whack-a-Mole" game to keep our cat entertained. 
 - 3 servo motors are controlled with an Arduino Nano, which will eventually be used to raise and lower whatever is going to the the "mole".
 - In each loop of the program, a random servo is chosen from the 3, then the delay before it raises, the speed at which it raises, how long it waits at the top, and how quickly it drops back down are all randomly generated.
 - Eventually the arm mechanics will be constructed with Lego and placed inside some form of enclosure, along with soldered circuitry. 
